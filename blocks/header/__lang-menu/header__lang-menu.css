@@ -1,0 +1,5 @@
+.header__lang-menu{
+  display: flex;
+  list-style: none;
+  gap: 18px;
+}
