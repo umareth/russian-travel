@@ -25,7 +25,7 @@
   .place{
       max-width: 720px;
       gap: 48px 28px;
-      padding-bottom: 73px;
+      padding-bottom: 72px;
       grid-template-columns: 340px 1fr;
       margin: 0 auto;
   }
