@@ -1,5 +1,7 @@
 # Проект 3: Путешествие по России
 
+![lead](https://github.com/umareth/russian-travel/blob/test/img_page.png?raw=true)
+
 ### Автор
 * Шахидов Умар
 
