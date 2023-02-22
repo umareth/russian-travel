@@ -38,7 +38,6 @@
   .place{
       grid-template-columns: none;
       max-width: 320px;
-      margin: 0 auto;
       gap: 0px 32px;
       padding-bottom: 50px;
       justify-items: start;
